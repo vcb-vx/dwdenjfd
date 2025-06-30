@@ -1,0 +1,10 @@
+Package: com.34306.mineland
+Name: Mineland
+Version: 2.1
+Architecture: iphoneos-arm64
+Description: A fun tweak for Mineland!
+Author: 34306
+Maintainer: 34306
+Section: Tweaks
+Filename: debs/com.34306.mineland_2.1_rootless_iphoneos-arm64.deb
+Size: 48
